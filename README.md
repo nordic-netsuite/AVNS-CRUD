@@ -12,3 +12,5 @@ used in the RESTLET-call. That will decide whether the operations on the record 
 parameter “recordtype” are allowed
 
 All operations are single record.
+
+More info in Wiki - https://github.com/nordic-netsuite/AVNS-CRUD/wiki
